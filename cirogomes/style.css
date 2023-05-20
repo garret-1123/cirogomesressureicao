@@ -1,0 +1,36 @@
+
+.notch {
+border-radius: 300px;
+color:black;
+box-shadow: 10px;
+
+}
+#header {
+    font-size: 33px;
+    width: 100%;
+    border-radius: 250px;
+    margin: 0px;
+
+}
+.img {
+    scale: .5;
+    border-radius: 100px
+}
+#disk1 {
+    float: left;
+}
+#disk2 {
+    float: right;
+}
+.h3s {
+    font-size: 23px;
+    border-radius:16px;
+}
+.btnPlay {
+    width: 150px;
+    border-radius: 30%;
+}
+canvas {
+border:5px solid white;
+border-radius: 25px;
+}
